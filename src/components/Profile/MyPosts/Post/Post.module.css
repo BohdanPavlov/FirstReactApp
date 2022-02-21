@@ -1,0 +1,11 @@
+.item{
+    color: #00ff00;
+}
+.item img{
+    width: 50px;
+    border-radius: 30px;
+}
+
+.message{
+    color: #fff;
+}
